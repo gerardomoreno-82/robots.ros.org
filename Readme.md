@@ -18,7 +18,7 @@ Please see the **contributing.md** for more info on how to contribute.
 ## Cards Jekyll Template -
 
 This website is based on the Cards Jekyll Template.
- [Demo](http://willianjusten.com.br/cards-jekyll-template)
+ [Demo](https://willianjusten.github.io/cards-jekyll-template/)
 
  ## Wiki conversion regexes
 
